@@ -1,4 +1,6 @@
 # BIRD Lab
+[Lab site](https://birdlab.notion.site/BIRD-Lab-b60537aaf85f4de9ada3a5088549d84c)
+
 We study how, when, and why animals adjust their morphology in flight. Our research aims to inspire highly maneuverable and adaptable uncrewed aerial vehicles (UAVs) and to advance our understanding of biological flight. The work integrates biological and engineering knowledge and uses both experimental and numerical techniques.
 
 This organization serves as a common repositories for projects related to BIRD Lab research. Repositories will be made public as the associated publications become public.
